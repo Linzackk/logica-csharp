@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.exe.config
