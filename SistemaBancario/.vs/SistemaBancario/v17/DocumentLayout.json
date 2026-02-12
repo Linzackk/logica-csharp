@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\SistemaBancario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1334A1-BA56-42AE-B83F-0EF258AB6405}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\sistemabancario\\sistemabancario\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1334A1-BA56-42AE-B83F-0EF258AB6405}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1334A1-BA56-42AE-B83F-0EF258AB6405}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\sistemabancario\\sistemabancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1334A1-BA56-42AE-B83F-0EF258AB6405}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\SistemaBancario\\SistemaBancario\\Class1.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Class1.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\SistemaBancario\\SistemaBancario\\Class1.cs",
+              "RelativeToolTip": "SistemaBancario\\Class1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:40:07.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\SistemaBancario\\SistemaBancario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\SistemaBancario\\SistemaBancario\\Program.cs",
+              "RelativeToolTip": "SistemaBancario\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wD4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:39:33.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

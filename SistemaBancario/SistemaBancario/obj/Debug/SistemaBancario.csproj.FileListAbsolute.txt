@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe.config
