@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ControleEstoque"
+    "\\ControleEstoque",
+    "\\JogoDaForca",
+    "\\JogoDaForca\\obj",
+    "\\JogoDaForca\\Properties"
   ],
-  "SelectedNode": "\\ControleEstoque\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

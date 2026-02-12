@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\csharp-logica\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\csharp-logica\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\csharp-logica\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\csharp-logica\JogoDaForca\obj\Debug\JogoDaForca.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\csharp-logica\JogoDaForca\obj\Debug\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\csharp-logica\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\csharp-logica\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\csharp-logica\JogoDaForca\obj\Debug\JogoDaForca.exe.config
